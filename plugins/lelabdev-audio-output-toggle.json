@@ -1,0 +1,19 @@
+{
+    "id": "audioOutputToggle",
+    "name": "Audio Output Toggle",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/lelabdev/dms-plugin-audio-output",
+    "author": "LoopsLudo & Mako",
+    "description": "Quickly switch between audio outputs from the DankBar and choose which devices are included in the cycle",
+    "dependencies": [],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/lelabdev/dms-plugin-audio-output/refs/heads/master/assets/audio-output-toggle-panel.png"
+}
