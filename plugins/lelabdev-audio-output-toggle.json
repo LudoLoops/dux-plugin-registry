@@ -1,0 +1,19 @@
+{
+    "id": "audioOutputToggle",
+    "name": "Audio Output Toggle",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/lelabdev/dms-plugin-audio-output",
+    "author": "LudoLoops",
+    "description": "Cycle through audio output devices from the DMS bar with one click. Right-click to choose which speakers, headphones or other devices to include; your selections persist across restarts and reconnects.",
+    "dependencies": [],
+    "compositors": [
+        "any"
+    ],
+    "distro": [
+        "any"
+    ],
+    "screenshot": "https://raw.githubusercontent.com/lelabdev/dms-plugin-audio-output/refs/heads/master/assets/audio-output-toggle-panel.png"
+}
